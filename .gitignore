@@ -1,0 +1,8 @@
+
+swagger-aspnet-docker\.Tests/bin/Debug/
+
+\.vs/swagger-aspnet-docker/v16/\.suo
+
+swagger-aspnet-docker\.Tests/obj/Debug/
+
+*.cache
