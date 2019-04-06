@@ -6,3 +6,17 @@ swagger-aspnet-docker\.Tests/bin/Debug/
 swagger-aspnet-docker\.Tests/obj/Debug/
 
 *.cache
+
+*.ide
+
+\.vs/swagger-aspnet-docker/v16/Server/sqlite3/
+
+*.dll
+
+swagger-aspnet-docker/bin/
+
+swagger-aspnet-docker/obj/Debug/
+
+*.csproj
+
+*.user
